@@ -1,0 +1,20 @@
+{
+  "name": "cli-04-exchange-currency-rates",
+  "version": "1.0.2",
+  "description": "This is a CLI Exchange Currency Rates Using Typescript And Node.js/Inquirer.",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Anas Hakeem",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.17"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
